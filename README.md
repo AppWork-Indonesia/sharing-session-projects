@@ -1,5 +1,5 @@
-# sharing-session-projects
-Ini adalah kumpulan projects hasil dari sharing session
+# Flutter Projects For Beginner
+Ini adalah kumpulan projects hasil dari sharing session dan dikumpulkan untuk bahan belajar
 
 1. QR Generator https://github.com/AppWork-Indonesia/1_qr_generator
 2. QR Scanner https://github.com/AppWork-Indonesia/2_qr_scanner
